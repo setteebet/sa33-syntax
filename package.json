@@ -1,18 +1,18 @@
 {
   "name": "sa33-syntax",
   "theme": "syntax",
-  "version": "0.1.1",
-"description": "ruay77s✔️ ❤️ ♕ เว็บหวยออนไลน์ มีหวยให้เล่นครบทุกชนิด ตลอด 24 ชั่วโมง",
-"keywords": [
-"ruay77s",
-"หวยรัฐบาลออนไลน์",
-"lottovip สมัคร",
-"แทงหวย24ชั่วโมง",
-"หวยดีออนไลน์"
-],
+  "version": "0.2.0",
+  "description": "ruay77s✔️ ❤️ ♕ เว็บหวยออนไลน์ มีหวยให้เล่นครบทุกชนิด ตลอด 24 ชั่วโมง",
+  "keywords": [
+    "ruay77s",
+    "หวยรัฐบาลออนไลน์",
+    "lottovip สมัคร",
+    "แทงหวย24ชั่วโมง",
+    "หวยดีออนไลน์"
+  ],
   "repository": "https://github.com/setteebet/sa33-syntax.git",
   "license": "MIT",
   "engines": {
-"atom": ">=1.0.0 <2.0.0"
-}
+    "atom": ">=1.0.0 <2.0.0"
+  }
 }
